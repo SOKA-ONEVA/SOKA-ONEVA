@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SOKA-ONEVA
 - 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on A PYTHON PROJECT
+-  i am interested in c++ programming
 - 📫 How to reach me WHATSAPP +260973514161
 
 <!---
