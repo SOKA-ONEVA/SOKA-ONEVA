@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @SOKA-ONEVA
-- 👀 I’m interested in PROGRAMMING
--  i am interested in c++ programming
-- 📫 How to reach me WHATSAPP +260973514161
+- Tech enthusiast
+- I have an interest in AI(Data science)
+- mobile application development
+- database management systems
+- data communication/computer networking and security 
 
-<!---
-SOKA-ONEVA/SOKA-ONEVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
